@@ -1,5 +1,5 @@
-# Operational Flight Envelope
-As part of Open Aircraft Performance model, the OFE database provides operational and limitation values of aircraft performance parameters. Common aircraft types are included.
+# WRAP - An open model for operational aircraft performance and flight envelope
+As part of an open aircraft performance modeling project, the WRAP database provides operational and limitation values of aircraft performance parameters. Common aircraft types are included.
 
 ADS-B data are use for model construction. Each parameters are constructed based on at least 5000 flight of same aircraft type. Detailed methods and model description can be found in **paper.pdf** 
 
